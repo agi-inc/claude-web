@@ -19,7 +19,7 @@ dependencies = [
     "pydantic==2.11.7",
     "python-dotenv==1.1.1",
     "PyYAML==6.0.2",
-    "ray==2.47.1",
+    "ray==2.52.0",
     "requests==2.32.4",
     "selenium==4.34.2",
     "tiktoken==0.9.0",
